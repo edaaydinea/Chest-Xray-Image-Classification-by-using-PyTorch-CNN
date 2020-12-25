@@ -30,4 +30,11 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
   - Training the model
   - Saving and loading the model
   
-  
+## References
+- https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans
+- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+- https://www.kaggle.com/prayankkul/understand-vgg16-transfer-learning-using-torch
+- https://www.kaggle.com/dnik007/pneumonia-detection-using-pytorch
+- https://pytorch.org/tutorials/
+- https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+- https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/
